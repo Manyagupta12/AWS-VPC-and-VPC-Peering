@@ -73,7 +73,7 @@ The architecture consists of two isolated VPCs connected through a VPC Peering c
 ---
 
 # Project Structure
-
+```text
 AWS-VPC-and-VPC-Peering/
 │
 ├── README.md
@@ -90,6 +90,7 @@ AWS-VPC-and-VPC-Peering/
     ├── VPCs.png
     ├── vpc-peering-created.png
     └── vpc-peering-accepted.png
+```
 ---
 
 # Screenshots
