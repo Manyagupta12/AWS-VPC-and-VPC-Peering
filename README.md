@@ -10,7 +10,7 @@ Two separate VPCs, **Production VPC** and **Test VPC**, were created with public
 
 # Architecture
 
-![Architecture](screenshots/Architecture.PNG)
+![Architecture](screenshots/Architecture.png)
 
 ## Architecture Overview
 
@@ -74,27 +74,24 @@ The architecture consists of two isolated VPCs connected through a VPC Peering c
 
 # Project Structure
 
-```text
-AWS-VPC-Peering/
+AWS-VPC-and-VPC-Peering/
 │
 ├── README.md
 │
 └── screenshots/
-    ├── Architecture.PNG
-    ├── VPC.PNG
-    ├── Subnets.PNG
-    ├── RouteTables.PNG
-    ├── InternetGateway.PNG
-    ├── NATGateway.PNG
-    ├── EC2Instances.PNG
-    ├── SecurityGroups.PNG
-    ├── vpc-peering-created.PNG
-    ├── vpc-peering-accepted.PNG
-    ├── Ping-Prod.PNG
-    └── Ping-Test.PNG
+    ├── Architecture.png
+    ├── EC2-Instances.png
+    ├── NATGateway.png
+    ├── Ping-Prod.png
+    ├── Ping-Test.png
+    ├── RouteTables.png
+    ├── SecurityGroups.png
+    ├── Subnets.png
+    ├── VPCs.png
+    ├── vpc-peering-created.png
+    └── vpc-peering-accepted.png
 ```
 
----
 
 # Screenshots
 
